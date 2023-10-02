@@ -23,7 +23,6 @@ string getLastTaskFromFile(string fileName) {
 		if (!f.eof()) {
 			task = x;
 		}
-		//getline(f, task);
 	}
 	return task;
 }

@@ -1,5 +1,5 @@
 ﻿  Сервер2.cpp
-C:\Users\User\Desktop\Комп сетка\Сервер\Сервер2.cpp(39,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-C:\Users\User\Desktop\Комп сетка\Сервер\Сервер2.cpp(75,20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
-C:\Users\User\Desktop\Комп сетка\Сервер\Сервер2.cpp(82,20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\Users\User\Desktop\Комп сетка\Сервер\Сервер2.cpp(34,23): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\User\Desktop\Комп сетка\Сервер\Сервер2.cpp(70,20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\Users\User\Desktop\Комп сетка\Сервер\Сервер2.cpp(77,20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
   Сервер2.vcxproj -> C:\Users\User\Desktop\Комп сетка\Сервер\x64\Debug\Сервер2.exe
