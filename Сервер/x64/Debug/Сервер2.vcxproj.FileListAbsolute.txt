@@ -1,2 +1,0 @@
-C:\Users\User\Desktop\Комп сетка\Сервер2\x64\Debug\Сервер2.exe
-C:\Users\User\Desktop\Комп сетка\Сервер\x64\Debug\Сервер2.exe
