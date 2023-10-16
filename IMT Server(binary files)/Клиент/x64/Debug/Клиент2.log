@@ -1,0 +1,4 @@
+﻿  Клиент2.cpp
+C:\Users\User\Desktop\Бинарные файлы\Клиент2\Клиент2.cpp(34,31): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\User\Desktop\Бинарные файлы\Клиент2\Клиент2.cpp(54,23): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  Клиент2.vcxproj -> C:\Users\User\Desktop\Бинарные файлы\Клиент2\x64\Debug\Клиент2.exe

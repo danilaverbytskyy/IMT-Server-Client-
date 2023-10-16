@@ -1,0 +1,5 @@
+﻿  Сервер2.cpp
+C:\Users\User\Desktop\Бинарные файлы\Сервер\Сервер2.cpp(38,29): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\User\Desktop\Бинарные файлы\Сервер\Сервер2.cpp(63,20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+C:\Users\User\Desktop\Бинарные файлы\Сервер\Сервер2.cpp(73,20): warning C4244: 'initializing': conversion from 'std::streamoff' to 'long', possible loss of data
+  Сервер2.vcxproj -> C:\Users\User\Desktop\Бинарные файлы\Сервер\x64\Debug\Сервер2.exe
