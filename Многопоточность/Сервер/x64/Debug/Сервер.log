@@ -1,0 +1,5 @@
+﻿  Сервер.cpp
+D:\Моё\Универ\Комп сетка\Http\Сервер\Сервер.cpp(107,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Моё\Универ\Комп сетка\Http\Сервер\Сервер.cpp(108,58): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Моё\Универ\Комп сетка\Http\Сервер\Сервер.cpp(99,10): warning C4101: 'buff': unreferenced local variable
+  Сервер.vcxproj -> D:\Моё\Универ\Комп сетка\Http\Сервер\x64\Debug\Сервер.exe
